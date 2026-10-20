@@ -1,3 +1,8 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Zhou You
+# This file, including its comments and docstrings, is licensed under the MIT License.
+# See LICENSE in the repository root.
+
 from qiskit import QuantumCircuit
 from qiskit.quantum_info import random_statevector, Pauli, Operator
 from .unitary import U3_pauli

@@ -81,3 +81,15 @@ If you use this code or algorithm in your research, please cite the following pa
   url = {https://link.aps.org/doi/10.1103/PhysRevApplied.23.014021}
 }
 ```
+
+## License
+
+Copyright (c) 2025 Zhou You.
+
+The original source code and accompanying documentation authored by Zhou You in this repository are licensed under the [MIT License](LICENSE), unless otherwise explicitly stated.
+
+In particular, `packages/states.py`, including its seven state-preparation and Pauli helper functions, comments, and docstrings, is original work by Zhou You and is covered by the MIT License. The permission to use, adapt, and redistribute this code and explanatory text is subject to retaining the copyright and permission notices required by the MIT License.
+
+Third-party dependencies, including Qiskit and NumPy, remain subject to their respective licenses; this license does not cover those libraries' implementations. Data files and experimental results are not covered by this software-license statement unless explicitly stated otherwise.
+
+For academic attribution, please also follow the paper citation above. The citation request is separate from the MIT License terms.
